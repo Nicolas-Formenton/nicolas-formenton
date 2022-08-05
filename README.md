@@ -2,7 +2,9 @@
 
 - 🌱 Estudando Java, JavaScript, HTML e CSS
 - 💬 Atualmente fazendo um MOOC de *DeFi* na UNIC (_University of Nicosia_)
-- ⚡ Apaixonado por Blockchain, Web3.0, Crypto, NFT's...
+- 🌐 Pesquisador & entusiasta de Blockchains
+- ⚡ Apaixonado por Web3.0, Crypto, NFT's...
+
 
 <div> 
   <a href="https://instagram.com/nicoolasf_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
