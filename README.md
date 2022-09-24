@@ -1,9 +1,9 @@
-### Olá 👋
+### Hello! 👋
 
-- 🌱 Estudando Java, Python, HTML e CSS
-- 💬 Atualmente fazendo um MOOC de *DeFi* na UNIC (_University of Nicosia_)
-- 🌐 Pesquisador & entusiasta de Blockchains
-- ⚡ Apaixonado por Web3.0, Crypto, NFT's...
+- 🌱 Mainly studying =__Java__= and =__Python__= right now, for backend puposes, __*hope to someday achieve a role related to Fintechs*__!
+- 💬 __*DeFi*__ MOOC done at UNIC (_University of Nicosia_) __*(Finished in 09/2022)*__
+- 🌐 Blockchain enthusiast and adopter
+- ⚡ Also love the idea of Web3.0, Crypto, NFT's...
 
 
 <div> 
