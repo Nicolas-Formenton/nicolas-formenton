@@ -15,9 +15,8 @@
 ##
   
   <a href="https://github.com/nicolas-formenton">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nicolas-formenton&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-formenton&layout=compact&langs_count=7&theme=react"/>
-  <img heigth="100em" width="400" src="https://github-readme-streak-stats.herokuapp.com/user=nicolas-formenton&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="NicolasFormenton"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nicolas-formenton&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-formenton&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
