@@ -18,7 +18,7 @@ Hello! 👋
   <a href="https://github.com/nicolas-formenton">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=nicolas-formenton&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-formenton&layout=compact&langs_count=7&theme=gotham"/>
-
+  <img heigth="160em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-formenton&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="nicolas-formenton" />
 
 
    ![Snake animation](https://github.com/nicolas-formenton/nicolas-formenton/blob/output/github-contribution-grid-snake.svg)
