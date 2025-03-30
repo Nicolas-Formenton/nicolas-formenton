@@ -2,7 +2,7 @@
 Hello! 👋
 </h1>
 
-- 🌱 Mainly studying =__Java__= and =__Python__=, __*hope to someday achieve a role related to Fintechs with these stacks*__!
+- 🌱 Mainly studying =__Python__=, __*hope to someday achieve a role related to Fintechs with this stack*__!
 - 💬 __*DeFi MOOC*__ done at UNIC (_University of Nicosia_) __*(Finished in 09/2022)*__
 - 🌐 Blockchain enthusiast and adopter
 - ⚡ Also love the idea/concepts and implementations of Web3, Crypto, NFT's and all advancements they can bring to our daily lives!
